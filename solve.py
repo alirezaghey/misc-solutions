@@ -19,9 +19,11 @@ from fenwicktree_rangequery_pointupdate import FenwickTreeRangeQueryPointUpdate
 #         [2, 1, 10] 
 #         [1, 5, 5] 
 #         [2, 2, 5]
+#         [1, 5, 2]
+#         [2, 2, 5]
 #        ]
 # Output:
-#   [2, 3]
+#   [2, 2, 3]
 #
 # Approach:
 # 1- Using a Fenwick Tree, we are going to create a tree
